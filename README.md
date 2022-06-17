@@ -15,7 +15,7 @@
 #QUESTION 3
 *I imported os and requests firstly
 *I wrote the script as instructed to loop and hit a website
-* I then proceeded to use the following command $ export times is 5
+* I then proceeded to use the following command $ export times=5
 * To check the env value I used $ echo $ times
 *The command I used to run the script is $python3 question3.py 
 
