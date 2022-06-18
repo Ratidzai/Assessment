@@ -1,5 +1,5 @@
 
-#My Instructions on how I did this assessment3
+#My Instructions on how I did this assessment
 
 #QUESTION 1
 *I used VS code to do the assessment
